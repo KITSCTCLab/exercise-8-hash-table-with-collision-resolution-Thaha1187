@@ -1,6 +1,6 @@
 import re
 
-def display_hash(hashtable) -> None:
+def display_hash(Hashtable) -> None:
 	# Write your code here
 	for i in range(len(Hashtable)):
 		print(i,end="")
